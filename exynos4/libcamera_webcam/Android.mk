@@ -15,6 +15,7 @@ LOCAL_C_INCLUDES += \
     hardware/ti/omap4xxx/hwc \
     frameworks/base/include/ui \
     frameworks/base/include/utils \
+    frameworks/native/include \
     hardware/ti/omap4xxx/domx/omx_core/inc \
     hardware/ti/omap4xxx/domx/mm_osal/inc \
     frameworks/base/include/media/stagefright \
